@@ -3,13 +3,11 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Research Questions](#research-questions)
-* [Technologies Used](#technologies-used)
+* [Technology](#technology)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#Setup)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -37,10 +35,6 @@ To correctly run this project one should have the latest version of RStudio down
 Project is: _complete_
 > This is a completed project that I did in the 2020-2021 school year in the Data Wrangling course at the University of Iowa 
 
-## Room for Improvement
-- Look at the impact the pandemic had on earnings in the film industry
-- How have streaming services such as Netflix and Hulu impacted movie earnings?
-- Look at all movies overtime. This project analyzes only 193 films that were found in both datasets. 
 
 ## Acknowledgements
 - My professor Mike Colbert is the one who assigned this project in the Data Wrangling course at the University of Iowa 
