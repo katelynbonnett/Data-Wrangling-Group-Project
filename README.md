@@ -25,7 +25,7 @@
 
 
 ## Screenshots
-![Rating vs Earning Correlation](./images/correlation.png)
+![Rating vs Earning Correlation](./images/GroupProject.png)
 
 
 ## Setup
